@@ -7,3 +7,15 @@
   ExecutorService, 
   Semaphore, 
   CountDownLatch, etc.
+
+┌──────────┐
+│  Start   │
+└───┬───┬──┘
+    │   ▼
+┌───┴───────┐
+│ Processing│
+└────┬──────┘
+     ▼
+  ┌──────┐
+  │  End │
+  └──────┘
