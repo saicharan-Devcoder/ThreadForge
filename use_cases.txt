@@ -1,0 +1,11 @@
+1. Web Server Handling Multiple Clients
+2. File Download Manager
+3. Background tasks for GUI APPlications
+4. Chat APPlications
+5. Gaming APPlications
+6. Real-time data processing
+7. Web crawling
+8. Video Streaming APPlications
+9. Database connection Pooling
+10.Timer or scheduler tasks 
+

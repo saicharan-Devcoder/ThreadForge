@@ -1,0 +1,9 @@
+=> Best Practices for Multithreading:
+
+1)Use thread pools to manage threads efficiently.
+2)Avoid shared mutable state to prevent race conditions.
+3)Use synchronization (synchronized, Locks, etc.) when accessing shared resources.
+4)Leverage high-level concurrency utilities like 
+  ExecutorService, 
+  Semaphore, 
+  CountDownLatch, etc.
